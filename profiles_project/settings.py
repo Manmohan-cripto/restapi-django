@@ -127,7 +127,7 @@ AUTH_USER_MODEL = 'profiles_api.UserProfile'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-ALLOWED_HOSTS=['ec2-54-210-109-72.compute-1.amazonaws.com', 
+ALLOWED_HOSTS=['ec2-54-234-93-89.compute-1.amazonaws.com', 
                '127.0.0.1']
 
 STATIC_ROOT ='static/'
